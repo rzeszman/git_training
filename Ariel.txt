@@ -1,5 +1,3 @@
 Ariel.txt
 
-yea this a new one text file to practise git version control.
-
-Welcome in my world ;)
+This is my new greeting so helloooooo !!!!
