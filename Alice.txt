@@ -5,3 +5,6 @@ And another line to see in diff ;)
 
 One line extra.
 Change Alice 
+
+
+Some more txt speciall for Alice :*
