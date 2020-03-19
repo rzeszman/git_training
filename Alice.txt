@@ -3,4 +3,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Yea, I've just wanted to say hello :)
 And another line to see in diff ;)
 
+One line extra.
 Change Alice 
