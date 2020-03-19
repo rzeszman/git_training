@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bobby here :) Yo ! ;]
+=======
+Hi!! I'm Bob. I'm new here.
+>>>>>>> Boby added
